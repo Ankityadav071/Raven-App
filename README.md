@@ -1,13 +1,8 @@
-[
+# DOWNLOAD
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Ankityadav071/Raven-App/releases/latest)
 
-![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)
+[![Release](https://img.shields.io/badge/Release-V1.0.0--BETA-orange?style=for-the-badge)](https://github.com/Ankityadav071/Raven-App/releases/latest)
 
-](https://github.com/Ankityadav071/Raven-App/releases/latest)
-[
-
-![Latest Release](https://img.shields.io/github/v/release/Ankityadav071/Raven-App?style=for-the-badge)
-
-](https://github.com/Ankityadav071/Raven-App/releases/latest)
 # Raven.
 An scriptwriting / bookwriting tool for cinema writter and beginners. 
 
